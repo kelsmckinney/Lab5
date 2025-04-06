@@ -1,9 +1,9 @@
 # Cumberland Falls
 
-Cumberland Falls State Park is located in south western Corbin, Kentucky and the Cumberland River flows through it thens pours into Lake Cumberland. 
+Cumberland Falls State Park is located in south western Corbin, Kentucky and the Cumberland River flows through it then pours into Lake Cumberland. 
 
-![Caption of map](view-of-cf.jpg)  
-_Caption of Map_
+![View of Cumberland Falls](view-of-cf.jpg)  
+_View of Cumberland Falls_
 
 ![Screenshot of animation](animation.jpg)  
 _[Name of the link for video]()_
