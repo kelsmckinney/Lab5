@@ -6,4 +6,4 @@ Cumberland Falls State Park is located in south western Corbin, Kentucky and the
 _View of Cumberland Falls_
 
 ![Screenshot of animationn](animation.jpg)  
-_[Name of the link for video]()_
+_[Cumberland Falls Animation](https://youtu.be/i7pcMbHl9oI)_
